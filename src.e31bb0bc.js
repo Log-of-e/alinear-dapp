@@ -46901,6 +46901,28 @@ function App() {
       style: {
         flex: 1
       }
+    }))), /*#__PURE__*/_react.default.createElement("fieldset", {
+      id: "setdatefield"
+    }, /*#__PURE__*/_react.default.createElement("label", {
+      htmlFor: "bountydate",
+      style: {
+        margin: " 0.5em 0"
+      }
+    }, "Bounty Date"), /*#__PURE__*/_react.default.createElement("div", {
+      style: {
+        display: 'flex'
+      }
+    }, /*#__PURE__*/_react.default.createElement("input", {
+      type: "date",
+      value: bountydate,
+      min: "2021-01-01",
+      max: "2050-01-01",
+      valuee: bountydate,
+      id: "bountydate",
+      onChange: e => setBountydate(e.target.value),
+      style: {
+        flex: 1
+      }
     }))))), showNotification && /*#__PURE__*/_react.default.createElement(Notification, null))
   );
 } // this component gets rendered by App after the form is submitted
