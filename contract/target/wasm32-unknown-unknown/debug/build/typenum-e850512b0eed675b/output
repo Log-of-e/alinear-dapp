@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/nesim/projects/proto01/near-protocol/alinear-employees-on-demand/contract/target/wasm32-unknown-unknown/debug/build/typenum-e850512b0eed675b/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/nesim/projects/proto01/near-protocol/alinear-employees-on-demand/contract/target/wasm32-unknown-unknown/debug/build/typenum-e850512b0eed675b/out/op.rs

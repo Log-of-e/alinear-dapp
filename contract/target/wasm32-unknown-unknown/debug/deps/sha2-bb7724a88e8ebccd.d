@@ -1,0 +1,12 @@
+/Users/nesim/projects/proto01/near-protocol/alinear-employees-on-demand/contract/target/wasm32-unknown-unknown/debug/deps/sha2-bb7724a88e8ebccd.rmeta: /Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/lib.rs /Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/consts.rs /Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256.rs /Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512.rs /Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256/soft.rs /Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512/soft.rs
+
+/Users/nesim/projects/proto01/near-protocol/alinear-employees-on-demand/contract/target/wasm32-unknown-unknown/debug/deps/libsha2-bb7724a88e8ebccd.rlib: /Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/lib.rs /Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/consts.rs /Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256.rs /Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512.rs /Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256/soft.rs /Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512/soft.rs
+
+/Users/nesim/projects/proto01/near-protocol/alinear-employees-on-demand/contract/target/wasm32-unknown-unknown/debug/deps/sha2-bb7724a88e8ebccd.d: /Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/lib.rs /Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/consts.rs /Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256.rs /Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512.rs /Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256/soft.rs /Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512/soft.rs
+
+/Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/lib.rs:
+/Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/consts.rs:
+/Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256.rs:
+/Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512.rs:
+/Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha256/soft.rs:
+/Users/nesim/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.3/src/sha512/soft.rs:

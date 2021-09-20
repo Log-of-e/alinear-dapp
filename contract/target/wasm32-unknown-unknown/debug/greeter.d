@@ -1,0 +1,1 @@
+/Users/nesim/projects/proto01/near-protocol/alinear-employees-on-demand/contract/target/wasm32-unknown-unknown/debug/greeter.wasm: /Users/nesim/projects/proto01/near-protocol/alinear-employees-on-demand/contract/src/lib.rs
